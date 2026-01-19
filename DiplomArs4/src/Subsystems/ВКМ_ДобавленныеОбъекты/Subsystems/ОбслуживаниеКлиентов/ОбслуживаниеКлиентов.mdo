@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3b8c1803-34c3-4ccb-a94d-03519a65cbc3">
+  <name>ОбслуживаниеКлиентов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обслуживание клиентов</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>DataProcessor.ВКМ_КалендарьСпециалистов</content>
+  <subsystems>Справочники</subsystems>
+  <subsystems>Операции</subsystems>
+  <subsystems>Регистры</subsystems>
+  <subsystems>Отчеты</subsystems>
+  <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
+</mdclass:Subsystem>

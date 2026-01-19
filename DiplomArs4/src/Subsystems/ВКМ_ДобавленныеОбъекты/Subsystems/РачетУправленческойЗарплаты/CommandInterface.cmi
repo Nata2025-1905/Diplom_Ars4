@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmi:CommandInterface xmlns:cmi="http://g5.1c.ru/v8/dt/cmi">
+  <subsystemsOrder>
+    <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.РачетУправленческойЗарплаты.Subsystem.Операции</subsystems>
+    <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.РачетУправленческойЗарплаты.Subsystem.Справочники</subsystems>
+    <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.РачетУправленческойЗарплаты.Subsystem.Регистры</subsystems>
+    <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.РачетУправленческойЗарплаты.Subsystem.Отчеты</subsystems>
+  </subsystemsOrder>
+</cmi:CommandInterface>

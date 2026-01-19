@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="425e4f41-06b4-4c63-9e07-32be309ead19">
+  <name>РачетУправленческойЗарплаты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Рачет управленческой зарплаты</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <subsystems>Справочники</subsystems>
+  <subsystems>Операции</subsystems>
+  <subsystems>Регистры</subsystems>
+  <subsystems>Отчеты</subsystems>
+  <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
+</mdclass:Subsystem>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="07882f2b-da64-4677-970a-fa19c0bf3be6">
+  <name>Операции</name>
+  <synonym>
+    <key>ru</key>
+    <value>Операции</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Document.ВКМ_ОбслуживаниеКлиентов</content>
+  <content>DataProcessor.ВКМ_ТестТелеграмм</content>
+  <content>Document.РеализацияТоваровУслуг</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.ОбслуживаниеКлиентов</parentSubsystem>
+</mdclass:Subsystem>
